@@ -25,10 +25,10 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                     <li class="nav-item">
-                        <a class="nav-link " aria-current="page" href="/">Home</a>
+                        <a class="nav-link " aria-current="page" href="https://rushi128.github.io/MITCORER/">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link active" href="/Rushi/BOOTSTRAP/about.php">About</a>
+                        <a class="nav-link active" href="https://rushi128.github.io/MITCORER/about.php">About</a>
                     </li>
                     <li class="nav-item dropdown">
                         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
@@ -46,7 +46,7 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/Rushi/BOOTSTRAP/contact.php">contact us</a>
+                        <a class="nav-link" href="https://rushi128.github.io/MITCORER/contact.php">contact us</a>
                     </li>
                 </ul>
                 <form class="d-flex">
